@@ -1,3 +1,5 @@
+# robots.txt - Coffeeome
 User-agent: *
 Allow: /
-Sitemap: https://nguyenquison.github.io/coffeome-buoi3/sitemap.xml
+
+Sitemap: https://nguyenquison.github.io/coffeome-bu-i3/sitemap.xml
